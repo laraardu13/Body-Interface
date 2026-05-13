@@ -8,14 +8,14 @@ let destructionLevel = 0;
 const MAX_DESTRUCTION = 8; 
 
 const messages = [
-  "I will drink a beer",
-  "Another beer..",
-  "Do you want a joke about a mathematician and a beer?",
-  "...so you get it 1+1/2+1/4+1/8....",
-  "hhhhh i love you",
-  "...ok ACTUALLY l'amour est un oiseau rebelle... do you know how they called sex in 1800s?!",
-  "щас",
-  "....я не сплю"
+  "SUBJECT DETECTED",
+  "ENGAGEMENT PATTERN INDENTIFIED ",
+  "IDENTITY SIMPLIFIED",
+  "MEMORY COMPRESSION COMPLETE",
+  "ORIGINAL IMAGE LOST",
+  "SUBJECT FULLY INDEXED",
+  "NO FURTHER IMPUT REQUIRED",
+  "I DON'T RECOGNIZE THIS BODY"
 ];
 
 //pic load
